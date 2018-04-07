@@ -10,8 +10,8 @@ git config --global core.autocrlf false
 git config --global core.eol lf
 2 шаг: клонируем репозиторий
 mkdir C:/develop/ #cоздаем папку на диске C (если Windows)
-git clone https://github.com/user/title-repository # копируем свой репозиторий на компьютер
-cd title-repository/ #заходим в локальный репозиторий
+git clone https://github.com/Roman525/Test.git # копируем свой репозиторий на компьютер
+cd Test/ #заходим в локальный репозиторий
 3 шаг: обновляем изменения на гитхабе
 # производим изменения
 # git отслеживает только изменения в файлах
